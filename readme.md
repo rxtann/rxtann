@@ -1,8 +1,10 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Ratchaneekorn Sunnonhnok
+- ⚡ Student id: 63365342
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 👩‍💻 In the future I want to be Programmer
+- 👩‍💻 I am interested in Database.
 
 ## Developer Tech
 
