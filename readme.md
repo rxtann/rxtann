@@ -1,5 +1,5 @@
 ## Hi there 👋 Nice to see u.
-[![image]([https://pbs.twimg.com/media/FU3OMdyacAAqMED.jpg](https://images.pexels.com/photos/2694037/pexels-photo-2694037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))](#)
+[pexels-photo-2694037.jpg](https://postimg.cc/TKzr15cs)
 
 - 😄 My name is: Ratchaneekorn Sunnonhnok
 - ⚡ Student id: 63365342
