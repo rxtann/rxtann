@@ -5,7 +5,7 @@
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👩‍💻 In the future I want to be Programmer
 - 👩‍💻 I am interested in Database.
-
+[![E27a-Qkt-Vc-AI09-SI.jpg](https://i.postimg.cc/02FQ4vBF/E27a-Qkt-Vc-AI09-SI.jpg)](https://postimg.cc/mt3BcvRy)
 ## Developer Tech
 
 ### Frameworks 
