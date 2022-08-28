@@ -25,6 +25,7 @@
 </p>
 
 ### Languages 
+[Python]
 <p align="left">
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
