@@ -1,4 +1,4 @@
-### Hi there 👋 Nice to see u.
+## Hi there 👋 Nice to see u.
 
 - 😄 My name is: Ratchaneekorn Sunnonhnok
 - ⚡ Student id: 63365342
