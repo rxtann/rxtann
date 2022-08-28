@@ -1,12 +1,12 @@
 ## Hi there 👋 Nice to see u.
-
-[![E27a-Qkt-Vc-AI09-SI.jpg](https://i.postimg.cc/02FQ4vBF/E27a-Qkt-Vc-AI09-SI.jpg)](https://postimg.cc/mt3BcvRy)
+[![image]([https://pbs.twimg.com/media/FU3OMdyacAAqMED.jpg](https://images.pexels.com/photos/2694037/pexels-photo-2694037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))](#)
 
 - 😄 My name is: Ratchaneekorn Sunnonhnok
 - ⚡ Student id: 63365342
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👩‍💻 In the future I want to be Programmer
 - 👩‍💻 I am interested in Database.
+[![E27a-Qkt-Vc-AI09-SI.jpg](https://i.postimg.cc/02FQ4vBF/E27a-Qkt-Vc-AI09-SI.jpg)](https://postimg.cc/mt3BcvRy)
 
 ## Developer Tech
 
